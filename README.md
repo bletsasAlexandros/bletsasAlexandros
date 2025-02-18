@@ -2,6 +2,9 @@
 
 ###
 
+🛜 currently working at [Betsson Group](https://www.betssongroup.com/)<br>👨🏼‍🎓 got my master's in computer engineering and informatics in the University of Patras<br>👨🏼‍💻 working as a web developer since 2021 <br>
+
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
