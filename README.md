@@ -2,7 +2,7 @@
 
 ###
 
-🛜 currently working at [...Allwyn Lottery Solutions](https://allwyn-lotterysolutions.com/)<br>👨🏼‍🎓 got my master's degree in computer engineering and informatics in the University of Patras<br>👨🏼‍💻 working as a software engineer since 2021 <br>
+🛜 currently working at [Allwyn Lottery Solutions](https://allwyn-lotterysolutions.com/)<br>👨🏼‍🎓 got my master's degree in computer engineering and informatics in the University of Patras<br>👨🏼‍💻 working as a software engineer since 2021 <br>
 
 # 💻 Tech Stack:
 <div align="left">
